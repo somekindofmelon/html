@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+/* * {
+    border: solid;
+}*/
+.hed{
+    background-color: salmon;
+
+}
+.gayms{
+    display:flex;
+    justify-content: space-evenly;
+}
+.soshalMedeea{
+    display:flex;
+    justify-content: flex-end;
+}
